@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdapterApplication</string>
+    <string name="tensp">tensp</string>
+    <string name="cost">Cost: </string>
+</resources>
